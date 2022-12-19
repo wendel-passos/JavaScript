@@ -1,0 +1,3 @@
+Uma referência que armazene uma lista com todas as teclas e imprima o valor dela na aba console
+
+solução está elaborado no js
